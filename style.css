@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 section{
-    background-color: purple;
+    background-color: #80145a;
     height:100vh;
 }
 .row{
@@ -29,7 +29,7 @@ section{
 
 }
 .icon i{
-    color:purple;
+    color:#80145a;
     padding:5px 10px;
     font-size: 20px;
 }
