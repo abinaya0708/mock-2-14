@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    background-color: purple;
+    height:100vh;
+}
+.row{
+    /* display: flex; */
+    justify-content: space-between;
+    
+    
+}
+.col{
+    /* width:33.33%; */
+    padding:0 50px;
+    padding-top: 15%;
+    
+}
+.card{
+    background-color: white;
+    padding: 20px 10px ;
+
+    border-radius: 10px;
+    
+
+}
+.icon i{
+    color:purple;
+    padding:5px 10px;
+    font-size: 20px;
+}
+.icon-div{
+    display: flex;
+}
+.image-div{
+    width:60%;
+    
+}
+.image{
+    position: absolute;
+
+    /* top:55%;
+    left:65%; */
+}
+.image-div img{
+    width:100%;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #ccc;
+}
+.col{
+    position: relative;
+}
+h1{
+    padding:5px 0;
+}
+p{
+    color:orangered;
+    padding:5px 0;
+}
+
